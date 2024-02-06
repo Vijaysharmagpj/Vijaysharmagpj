@@ -7,7 +7,7 @@ Frontend Developer
 Welcome! I'm Vijay Kumar Sharma, a recent graduate with a degree in Computer Science from Dr. APJ Abdul Kalam Technical University, Lucknow. Throughout my academic journey, I've honed my skills in Java, and I also possess a strong command of HTML, CSS, JavaScript, React.JS, and SQL.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://vijay-portfoliowebsite.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://vijaysharma-portfolio.netlify.app/)
 * ✉️  You can contact me at [vijaysharmagpj65@gmail.com](mailto:vijaysharmagpj65@gmail.com)
 * 🧠  I'm learning MERN
 * 🤝  I'm open to collaborating on On Self Project
