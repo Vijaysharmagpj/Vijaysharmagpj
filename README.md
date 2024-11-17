@@ -1,17 +1,24 @@
 Hi 👋 My name is Vijay Kumar Sharma
 ===================================
 
-Frontend Developer
+Full-stack Developer
 ------------------
 
-Welcome! I'm Vijay Kumar Sharma, a recent graduate with a degree in Computer Science from Dr. APJ Abdul Kalam Technical University, Lucknow. Throughout my academic journey, I've honed my skills in Java, and I also possess a strong command of HTML, CSS, JavaScript, React.JS, and SQL.
+I'm Vijay Kumar Sharma, a passionate and dedicated Full-Stack Developer with a strong foundation in computer science. I'm currently working as a Full-Stack Developer at SUN Integrated Technologies and Applications (March 2024 - Present).
+
+During my academic and professional journey, I've developed expertise in:
+
+Front-End Development: HTML, CSS, JavaScript, React.js
+Back-End Development: Node.js, Express.js, SQL
+Databases: MongoDB and SQL
+Programming: Proficient in Java
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](https://vijaysharma-portfolio.netlify.app/)
 * ✉️  You can contact me at [vijaysharmagpj65@gmail.com](mailto:vijaysharmagpj65@gmail.com)
 * 🧠  I'm learning MERN
 * 🤝  I'm open to collaborating on On Self Project
-* ⚡  I've honed my skills in Java, and I also possess a strong command of HTML, CSS, JavaScript, React.JS, and SQL.
+* ⚡  I've honed my skills in Java, and I also possess a strong command of HTML, CSS, JavaScript, React.JS, MongoDB,Node,Express and SQL.
 
 ### Skills
 
